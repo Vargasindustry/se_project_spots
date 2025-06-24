@@ -1,7 +1,10 @@
-.footer{    
+.footer {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1;
 }
 
-.footer__copyright{
-    display:flex;
+.footer__text{
+    display: flex;
     justify-content: center;
 }

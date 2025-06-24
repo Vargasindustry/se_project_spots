@@ -6,6 +6,8 @@
 
 .profile__avatar{
     margin-right: 20px;
+    height: 190px;
+    width: 190px;
 }
 
 .profile__column{
@@ -15,18 +17,69 @@
 
 .profile__name{
     margin:0 0 12px;
-
+    font-weight: 500;
+    line-height: 1;
+    font-size: 32px;
 }
 
 .profile__description{
     margin:0;
+    font-weight: 500;
+    line-height: 1;
+    font-size: 16px;
+    color: #212121B2;
+    opacity: 0.7;
+
 
 }
 
 .profile__edit-button{
-    margin-top:auto
+    margin-top:auto;
+    font-size:16px;
+    font-weight: 500px;
+
 }
 
 .profile__add-button {
     margin-left: auto; 
+    font-size: 16px;
+    font-weight: 500px;
 }
+
+@media screen and (max-width: 627px) {
+ .profile{
+    flex-direction: column;
+    max-width: 288px;
+    align-items: center;
+    text-align: center;
+    padding-top:20px;
+
+ }
+ 
+ .profile__avatar{
+    margin-right: 0;
+    height: 80px;
+    width: 80px;
+    margin-bottom: 12px;
+
+ }
+
+ .profile__name{
+    font-size: 20px;
+    margin-bottom: 6px;
+ }
+
+ .profile__description{
+    margin-bottom: 32px;
+ }
+
+ .profile__column{
+    margin-bottom: 20px;
+}
+
+ }
+ .profile__add-button{
+    margin: 0;
+    width: 100%;
+ }
+
