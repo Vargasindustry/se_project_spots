@@ -31,11 +31,23 @@
     font-size: 20px;
     font-weight: 500;
     line-height:1.2;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+
     
 }
 
 @media screen and (max-width:627px) {
 .card__image{
     height:288px;
+}
+
+.card__title{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+   
+
 }
 }

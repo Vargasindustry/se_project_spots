@@ -10,7 +10,7 @@
     margin-right: 20px;
     height: 190px;
     width: 190px;
-    border-radius: 16px;
+    border-radius: 2px;
 }
 
 .profile__column{
@@ -26,9 +26,6 @@
     display: -webkit-box;
     overflow: hidden;
     text-overflow: ellipsis;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    max-width: 420px;
     
 }
 
@@ -42,9 +39,7 @@
     display: -webkit-box;
     overflow: hidden;
     text-overflow: ellipsis;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    max-width: 420px;
+   
 
 
 }
