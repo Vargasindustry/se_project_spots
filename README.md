@@ -32,3 +32,4 @@ Spots is website designed with user interaction and personal sharing in mind. It
 - Responsive Design 
 
 ## Images 
+<!-- some confusion about putting the images in this secrtion.  -->
