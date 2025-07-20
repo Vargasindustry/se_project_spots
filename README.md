@@ -1,4 +1,4 @@
-# Project 3: Spots
+<!-- # Project 3: Spots
 
 ### Overview  
 
@@ -18,7 +18,7 @@ This project is made so all the elements are displayed correctly on popular scre
   
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
   
-Good luck and have fun!
+Good luck and have fun! -->
 
 # Spots 
 An image sharing website.
@@ -32,4 +32,16 @@ Spots is website designed with user interaction and personal sharing in mind. It
 - Responsive Design 
 
 ## Images 
-<!-- some confusion about putting the images in this secrtion.  -->
+![Bessie Coleman](images/avatar.jpg)
+
+![Val Thorens](images/1-photo-by-moritz-feldmann-from-pexels.jpg)
+
+![Restaurant terrace](images/2-photo-by-ceiline-from-pexels.jpg)
+
+![An outdoor cafe](images/3-photo-by-tubanur-dogan-from-pexels.jpg)
+
+![A very long bridge](images/4-photo-by-maurice-laschet-from-pexels.jpg)
+
+![Tunnel with morning light](images/5-photo-by-van-anh-nguyen-from-pexels.jpg)
+
+![Mountain house](images/6-photo-by-moritz-feldmann-from-pexels.jpg)

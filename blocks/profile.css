@@ -10,12 +10,14 @@
     margin-right: 20px;
     height: 190px;
     width: 190px;
-    border-radius: 2px;
+    border-radius: 8px;
 }
 
 .profile__column{
     display: flex;
     flex-direction:column;
+    max-width: 420px;
+
 }
 
 .profile__name{
@@ -23,9 +25,14 @@
     font-weight: 500;
     line-height: 1;
     font-size: 32px;
+    color:#212121;
     display: -webkit-box;
     overflow: hidden;
     text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+
+    
     
 }
 
@@ -39,8 +46,8 @@
     display: -webkit-box;
     overflow: hidden;
     text-overflow: ellipsis;
-   
-
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
 
 }
 
@@ -49,10 +56,12 @@
     align-items: center;
     justify-content: flex-start;
     gap: 8px; 
+    line-height: 100%;
+    color: #212121;
     margin-top:auto;
     font-size:16px;
     font-weight: 500px;
-    background-color:#fcf5e5;
+    background-color: transparent;
     border:none;
     opacity:70%;
    
@@ -70,12 +79,12 @@
     margin-left: auto; 
     margin-top: auto;
     font-size: 16px;
-    font-weight: 500px;
+    font-weight: 500;
     color: #FCF5E5;
     width: 149px;
     height:52px;
     background-color: #212121;
-    border-radius: 16px;
+    border-radius: 8px;
     border: none;
 
 }
@@ -85,22 +94,20 @@
 }
 
 
-
-    
-
-
 @media screen and (max-width: 627px) {
  .profile{
     flex-direction: column;
+    justify-content: center;
     max-width: 288px;
     align-items: center;
     text-align: center;
-    padding-top:20px;
+    padding-top: 20px;
+    
 
  }
  
  .profile__avatar{
-    margin-right: 0;
+    margin: 0;
     height: 80px;
     width: 80px;
     margin-bottom: 12px;
@@ -116,16 +123,36 @@
  .profile__description{
     margin-bottom: 32px;
     max-width: 288px;
+    display: flex;
+    justify-content: center;
+    
  }
 
  .profile__column{
     margin-bottom: 20px;
+    margin: 0;
 }
 
  
  .profile__add-button{
+    display: flex;
+    justify-content: center;
     margin: 0;
     width: 100%;
+    margin:0 auto;
    
- } 
+ }
+ 
+.profile__edit-button{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 0;
+    font-family: "Poppins", Arial, Helvetica, sans-serif; 
+
+
+
+
+}
 }

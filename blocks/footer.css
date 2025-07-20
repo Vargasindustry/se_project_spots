@@ -2,6 +2,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 1;
+    padding: 60px;
     
 }
 
@@ -9,8 +10,8 @@
 .footer__text{
     display: flex;
     justify-content: center;
-    padding: 60px;
     margin: 0;
+    color: #212121B2;
     
     
 }
