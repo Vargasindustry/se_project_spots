@@ -32,7 +32,7 @@ Spots is website designed with user interaction and personal sharing in mind. It
 - Responsive Design 
 
 ## Links
-- https://github.com/Vargasindustry/se_project_spots
+- https://vargasindustry.github.io/se_project_spots/ 
 
 ## Images 
 ![Bessie Coleman](images/avatar.jpg)
