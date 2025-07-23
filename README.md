@@ -31,6 +31,9 @@ Spots is website designed with user interaction and personal sharing in mind. It
 - CSS
 - Responsive Design 
 
+## Links
+- https://github.com/Vargasindustry/se_project_spots
+
 ## Images 
 ![Bessie Coleman](images/avatar.jpg)
 

@@ -19,6 +19,11 @@
 }
 
 @media screen and (max-width:627px) {
+    
+    .cards{
+        padding-bottom: 22px;
+    }
+
     .cards__list{
     grid-template-columns: repeat(auto-fit, 288px);
     grid-row-gap: 20px;
