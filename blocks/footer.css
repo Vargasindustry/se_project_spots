@@ -1,18 +1,13 @@
 .footer {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1;
-    padding: 60px;
-    
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+  padding: 60px;
 }
 
-
-.footer__text{
-    display: flex;
-    justify-content: center;
-    margin: 0;
-    color: #212121B2;
-    
-    
+.footer__text {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  color: #212121b2;
 }
-
