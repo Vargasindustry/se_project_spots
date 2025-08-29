@@ -47,6 +47,7 @@
 }
 
 .profile__edit-button {
+  cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: flex-start;
@@ -66,6 +67,7 @@
 }
 
 .profile__add-button {
+  cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
