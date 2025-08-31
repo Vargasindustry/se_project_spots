@@ -34,6 +34,8 @@ Spots is website designed with user interaction and personal sharing in mind. It
 ## Links
 - https://vargasindustry.github.io/se_project_spots/ 
 
+- https://drive.google.com/file/d/15k_oEWZPWWQ4y1cO4AXyug0sMpdqCGCt/view?usp=drive_link
+
 ## Video Description 
 <!-- just a quick question before I submit a video, when im presenting the different media view, is it best just to "go live" via VSCode and impliment the project through Chrome and use Google Dev Tools to change the sizing or do you recommend a better way to present the project in a moblie/tablet view? Or do you just want the presentation to be strictly shown through VScode as in pointing out what specific code makes the website work in a different media view?" Just asking here to see what would be more of a real life job application of describing/showing how it works. Thank you!  -->
 
@@ -51,3 +53,4 @@ Spots is website designed with user interaction and personal sharing in mind. It
 ![Tunnel with morning light](images/5-photo-by-van-anh-nguyen-from-pexels.jpg)
 
 ![Mountain house](images/6-photo-by-moritz-feldmann-from-pexels.jpg)
+
